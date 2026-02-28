@@ -1,0 +1,5 @@
+{
+  "name": "MechReconstruct AI",
+  "description": "Analyze mechanical images and reconstruct them as interactive 3D Babylon.js scenes with AI-driven animations.",
+  "requestFramePermissions": []
+}
